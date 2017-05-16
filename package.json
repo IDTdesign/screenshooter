@@ -1,0 +1,31 @@
+{
+  "name": "screenshooter",
+  "version": "0.0.1",
+  "description": "A tool for making site screenshots",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IDTdesign/screenshooter.git"
+  },
+  "keywords": [
+    "screenshot",
+    "tool",
+    "grunt",
+    "phantomjs"
+  ],
+  "author": "Paul Radzkov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IDTdesign/screenshooter/issues"
+  },
+  "homepage": "https://github.com/IDTdesign/screenshooter#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-pageres": "^2.2.0",
+    "load-grunt-tasks": "^3.5.2",
+    "time-grunt": "^1.4.0"
+  }
+}
