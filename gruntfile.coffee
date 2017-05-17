@@ -12,12 +12,12 @@ module.exports = (grunt) ->
 			mvno:
 				options:
 					urls: [
-						'https://mvno1.aws-qa.bossrow.net/en-us/'
-						'https://mvno1.aws-qa.bossrow.net/en-us/help.html'
-						'https://mvno1.aws-qa.bossrow.net/en-us/register.html'
-						'https://mvno1.aws-qa.bossrow.net/en-us/contacts.html'
-						'https://mvno1.aws-qa.bossrow.net/en-us/login.html'
-						'https://mvno1.aws-qa.bossrow.net/en-us/forgot.html'
+						'http://localhost:8008/en-us/'
+						'http://localhost:8008/en-us/help.html'
+						'http://localhost:8008/en-us/register.html'
+						'http://localhost:8008/en-us/contacts.html'
+						'http://localhost:8008/en-us/login.html'
+						'http://localhost:8008/en-us/forgot.html'
 						]
 					sizes: [
 						'1280x720'
